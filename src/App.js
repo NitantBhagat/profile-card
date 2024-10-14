@@ -104,15 +104,15 @@ function App() {
   );
 }
 
-function Card(props) {
+function Card({ cardObj }) {
   return (
     <div className="card-container">
       <div className="profile-img">
-        <img src={props.cardObj.photoName} alt="Profile" />
+        <img src={cardObj.photoName} alt="Profile" />
       </div>
       <div className="detail-container">
-        <h3>{props.cardObj.name}</h3>
-        <p>{props.cardObj.details}</p>
+        <h3>{cardObj.name}</h3>
+        <p>{cardObj.details}</p>
         <ul className="skill-list">
           {/* <li>Android Development</li>
           <li>Web Development</li>
@@ -120,7 +120,7 @@ function Card(props) {
           <li>Database</li>
           <li>User Interface Design</li>
           <li>Firebase</li> */}
-          {props.cardObj.skills.map((skill) => (
+          {cardObj.skills.map((skill) => (
             <li>{skill}</li>
           ))}
         </ul>
