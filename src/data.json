@@ -1,0 +1,224 @@
+[
+  {
+    "name": "Nitant Bhagat",
+    "details": "Aspiring Software Developer | Android App Development & Data Science | Web Development & Design | Java, JavaScript, SQL, REST APIs, MERN Stack | Photography & Video Editing Enthusiast | MS in Computer Science Student",
+    "photoName": "images/profile2.jpg",
+    "skills": [
+      {
+        "skill": "Android Development",
+        "level": "advanced",
+        "color": "#C3DCAF"
+      },
+      {
+        "skill": "Web Development",
+        "level": "advanced",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "Java",
+        "level": "advanced",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "Database",
+        "level": "intermediate",
+        "color": "#E84F33"
+      },
+      {
+        "skill": "UI/UX",
+        "level": "intermediate",
+        "color": "#FF3B00"
+      },
+      {
+        "skill": "Firebase",
+        "level": "beginner",
+        "color": "#60DAFB"
+      }
+    ]
+  },
+  {
+    "name": "Isha Patel",
+    "details": "Aspiring Software Developer | Photography & Video Editing Enthusiast | MS in Computer Science Student",
+    "photoName": "images/profile2.jpg",
+    "skills": [
+      {
+        "skill": "Photography",
+        "level": "advanced",
+        "color": "#C3DCAF"
+      },
+      {
+        "skill": "Video Editing",
+        "level": "intermediate",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "advanced",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "advanced",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "User Experience Research",
+        "level": "intermediate",
+        "color": "#E84F33"
+      },
+      {
+        "skill": "Git",
+        "level": "beginner",
+        "color": "#FF3B00"
+      }
+    ]
+  },
+  {
+    "name": "Rahul Sharma",
+    "details": "Full-Stack Developer | Cloud Computing with AWS | API Development & Integration | DevOps | React, Node.js, and Docker | Open-Source Contributor | MS in Computer Science Student",
+    "photoName": "images/profile3.jpg",
+    "skills": [
+      {
+        "skill": "AWS",
+        "level": "advanced",
+        "color": "#60DAFB"
+      },
+      {
+        "skill": "Docker",
+        "level": "advanced",
+        "color": "#FF3B00"
+      },
+      {
+        "skill": "Microservices Architecture",
+        "level": "advanced",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "React",
+        "level": "advanced",
+        "color": "#60DAFB"
+      },
+      {
+        "skill": "Node.js",
+        "level": "intermediate",
+        "color": "#E84F33"
+      },
+      {
+        "skill": "API Design",
+        "level": "intermediate",
+        "color": "#C3DCAF"
+      }
+    ]
+  },
+  {
+    "name": "Priya Desai",
+    "details": "UI/UX Designer | Passionate about Creating Seamless User Experiences | Figma, Sketch, and Adobe XD | Front-End Development with HTML, CSS, and JavaScript | Enthusiast in Animation Design",
+    "photoName": "images/profile4.jpg",
+    "skills": [
+      {
+        "skill": "Figma",
+        "level": "advanced",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "Sketch",
+        "level": "intermediate",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "Adobe XD",
+        "level": "advanced",
+        "color": "#FF3B00"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "advanced",
+        "color": "#60DAFB"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "intermediate",
+        "color": "#E84F33"
+      },
+      {
+        "skill": "Animation Design",
+        "level": "beginner",
+        "color": "#C3DCAF"
+      }
+    ]
+  },
+  {
+    "name": "Arjun Mehta",
+    "details": "Data Scientist | Machine Learning Enthusiast | Proficient in Python, R, SQL | Expertise in Data Visualization | AI Researcher and Contributor | MS in Data Science Student",
+    "photoName": "images/profile5.jpg",
+    "skills": [
+      {
+        "skill": "Machine Learning",
+        "level": "advanced",
+        "color": "#60DAFB"
+      },
+      {
+        "skill": "Data Visualization",
+        "level": "advanced",
+        "color": "#FF3B00"
+      },
+      {
+        "skill": "Python",
+        "level": "advanced",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "R",
+        "level": "intermediate",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "SQL",
+        "level": "intermediate",
+        "color": "#E84F33"
+      },
+      {
+        "skill": "Statistical Analysis",
+        "level": "advanced",
+        "color": "#C3DCAF"
+      }
+    ]
+  },
+  {
+    "name": "Sanjana Rao",
+    "details": "Mobile App Developer | Expert in Android and iOS Development | Proficient in Kotlin, Swift, and Flutter | Passionate about Building Scalable Mobile Applications | Software Engineering Graduate",
+    "photoName": "images/profile6.jpg",
+    "skills": [
+      {
+        "skill": "Kotlin",
+        "level": "advanced",
+        "color": "#2662EA"
+      },
+      {
+        "skill": "Swift",
+        "level": "intermediate",
+        "color": "#EFD81D"
+      },
+      {
+        "skill": "Flutter",
+        "level": "advanced",
+        "color": "#60DAFB"
+      },
+      {
+        "skill": "Cross-Platform Development",
+        "level": "intermediate",
+        "color": "#FF3B00"
+      },
+      {
+        "skill": "RESTful APIs",
+        "level": "advanced",
+        "color": "#C3DCAF"
+      },
+      {
+        "skill": "User Interface Design",
+        "level": "advanced",
+        "color": "#E84F33"
+      }
+    ]
+  }
+]
